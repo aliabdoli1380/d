@@ -1,2 +1,1 @@
-https://www.kite.com/python/answers/how-to-download-a-file-from-a-url-in-python
-https://stackabuse.com/download-files-with-python/18
+salam
